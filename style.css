@@ -8,7 +8,7 @@ span{
 }
 .main{
     width: 100%;
-    background:linear-gradient(to top, rgba(0,0,0,0.5)30%,rgba(0,0,0,0.5)70%), url(1.img);
+    background:linear-gradient(to top, rgba(0,0,0,0.5)30%,rgba(0,0,0,0.5)70%), url(https://images.pexels.com/photos/1595385/pexels-photo-1595385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
     background-position: center;
     background-size: cover;
     height: 100vh;
